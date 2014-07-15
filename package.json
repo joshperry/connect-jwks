@@ -36,7 +36,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "node-forge": "0.2.x",
+    "node-forge": "~0.6.2",
     "base64url": "0.0.x"
   },
   "devDependencies": {
